@@ -1,0 +1,5 @@
+PolicijskiTerminal1: 1
+PolicijskiTerminal2: 1
+PolicijskiZaKamione: 1
+CarinskiTerminal: 1
+CarinskiZaKamione: 1
